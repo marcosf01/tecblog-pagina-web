@@ -1,4 +1,4 @@
-<h1 align="center">TecBlog</h1>
+<h1 align="center">TecBlog</h1><br>
 
 ## :dart: Objetivo do projeto 
 Desenvolvimento da página inicial de um site de notícias sobre tecnologia. Página web construída com base em uma atividade do curso Desenvolvimento Web - Udemy.
@@ -8,7 +8,7 @@ Desenvolvimento da página inicial de um site de notícias sobre tecnologia. Pá
 - HTML
 - CSS
 
-## :mag_right: Veja de perto o projeto
+## :mag_right: Veja de perto
 https://marcosf01.github.io/tecblog-pagina-web/ <br>
 O projeto foi elaborado para web. Mas em breve, será responsivo.
 
