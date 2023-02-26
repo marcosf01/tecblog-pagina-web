@@ -9,6 +9,7 @@ Desenvolvimento da página inicial de um site de notícias sobre tecnologia. Pá
 - CSS
 
 ## :mag_right: Veja de perto o projeto
+https://marcosf01.github.io/tecblog-pagina-web/ <br>
 O projeto foi elaborado para web. Mas em breve, será responsivo.
 
 <br>
